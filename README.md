@@ -13,7 +13,7 @@ _**🚦 Traffic Signal Simulation**_
 -Uses timed LED sequences (Red, Yellow, Green)
 -Introduces structured logic and delays
 
-_📏 Ultrasonic Sensor_
+**_📏 Ultrasonic Sensor_**
 -Measures distance using ultrasonic waves
 -Introduces sensor interfacing
 -Useful for obstacle detection systems
