@@ -5,8 +5,8 @@ These programs were developed during hands-on IoT training sessions by AB Tech V
 
 _**🔹 Two Blinking LEDs**_
 - Demonstrates basic GPIO control
--Alternating LED blinking pattern
--Helps understand digital output and timing
+- Alternating LED blinking pattern
+- Helps understand digital output and timing
 
 _**🚦 Traffic Signal Simulation**_
 -Simulates real-world traffic light logic
